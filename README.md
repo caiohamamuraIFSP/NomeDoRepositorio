@@ -1,6 +1,6 @@
 # p01_msql_example
 
-A new Flutter project.
+A new sample Flutter project.
 
 ## Getting Started
 
